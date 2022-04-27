@@ -6,7 +6,7 @@
 
 ---
 
- <img src="https://github-readme-stats.vercel.app/api?username=muzhichu&show_icons=true&theme=gotham" align="right" alt="沐之初的 Stats" >&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://github-readme-stats.vercel.app/api?username=muzhichu&show_icons=true&theme=gotham" align="right" alt="沐之初的 Stats" />
 
 **我的技术栈**
 
