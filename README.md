@@ -8,28 +8,11 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=muzhichu&title_color=333&text_color=777" alt="沐之初的 Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
-    -->
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://juejin.cn/user/1415826706021608" target="_blank" alt="junjin" title="junjin">
-    <img src="https://github.com/muzhichu/muzhichu/blob/main/img/juejin.png?raw=true" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://space.bilibili.com/83263167" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/129467562-a754907c-c128-40d0-80ad-86e89bdda3d6.png" width="30px"/>
-  </a> 
-</p>
-
 <h2></h2>
 
-<img align="right" alt="GIF" src="https://github.com/muzhichu/muzhichu/blob/main/img/code.gif?raw=true" width="343" height="220"> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/muzhichu" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=muzhichu&title_color=333&text_color=777" alt="沐之初的 Stats" >
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- stackoverflow profile
 <a href="https://stackoverflow.com/users/8317261/charmve"><img align="right" alt="Profile of Charmve (张伟) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>-->
