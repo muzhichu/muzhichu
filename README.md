@@ -8,9 +8,8 @@
 
 <br>
 
-<h2></h2>
 
-<a href="https://github.com/muzhichu" class="rich-diff-level-one">
+<a href="https://github.com/muzhichu" style="float:right;display:inline-block">
     <img src="https://github-readme-stats.vercel.app/api?username=muzhichu&title_color=333&text_color=777" alt="沐之初的 Stats" >
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -27,6 +26,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 
+<br />
+<br />
 **工具和环境**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
