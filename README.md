@@ -9,12 +9,7 @@
 <br>
 
 
-<a href="https://github.com/muzhichu" style="float:right;display:inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=muzhichu&show_icons=true&theme=gotham" alt="沐之初的 Stats" >
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- stackoverflow profile
-<a href="https://stackoverflow.com/users/8317261/charmve"><img align="right" alt="Profile of Charmve (张伟) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>-->
+ <img src="https://github-readme-stats.vercel.app/api?username=muzhichu&show_icons=true&theme=gotham" align="right" alt="沐之初的 Stats" >&nbsp;&nbsp;&nbsp;&nbsp;
 
 **我的技术栈**
 
