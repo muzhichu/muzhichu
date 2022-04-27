@@ -10,7 +10,7 @@
 
 
 <a href="https://github.com/muzhichu" style="float:right;display:inline-block">
-    <img src="https://github-readme-stats.vercel.app/api?username=muzhichu&title_color=333&text_color=777" alt="沐之初的 Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=muzhichu&show_icons=true&theme=gotham" alt="沐之初的 Stats" >
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- stackoverflow profile
